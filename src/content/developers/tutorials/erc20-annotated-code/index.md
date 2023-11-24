@@ -41,7 +41,7 @@ interface itself does not define _how_ to do anything. That is explained in the 
 // SPDX-License-Identifier: MIT
 ```
 
-Solidity files are supposed to includes a license identifier. [You can see the list of licenses here](https://spdx.org/licenses/). If you need a different
+Solidity files are supposed to include a license identifier. [You can see the list of licenses here](https://spdx.org/licenses/). If you need a different
 license, just explain it in the comments.
 
 &nbsp;
